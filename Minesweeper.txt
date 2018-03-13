@@ -1,0 +1,3 @@
+Please note that Minesweeper uses two classes: 
+1- MinesweeperApp Class(Where the actual program is run) & 
+2- Minesweeper Class(Stores all the methods needed.)
