@@ -1,4 +1,4 @@
 
 Please note that TicTacToe uses two classes: 
-1- TicTAcToeApp Class(Where the actual program is run) & 
+1- TicTAcToeApplication Class(Where the actual program is run) & 
 2- TicTacToe Class(Stores all the methods needed.)
